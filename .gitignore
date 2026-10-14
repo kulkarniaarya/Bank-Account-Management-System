@@ -1,0 +1,6 @@
+bank.db
+accounts.json
+accounts_backup.json
+__pycache__/
+*.pyc
+.env
